@@ -15,10 +15,6 @@ style = "Regular"
 [selection]
 save_to_clipboard = true
 
-[window]
-decorations = "none"
-startup_mode = "Fullscreen"
-
 [window.padding]
 x = 10
 y = 10
